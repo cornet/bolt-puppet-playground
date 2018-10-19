@@ -1,0 +1,5 @@
+modulepath: "./modules"
+concurrency: 10
+format: human
+ssh:
+  host-key-check: false
